@@ -1,0 +1,6 @@
+{
+  "name": "E-shop",
+  "description": "An interactive, fully featured Indian e-commerce application (E-shop) containing over 100 premium products, category filters, a robust search engine, an active shopping cart, and a secure checkout simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
